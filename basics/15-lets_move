@@ -1,2 +1,2 @@
 #!/bin/bash
-./move_uppercase.sh
+mv {{:upper:}} /tmp/u
