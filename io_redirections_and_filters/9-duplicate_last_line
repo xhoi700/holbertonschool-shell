@@ -1,3 +1,2 @@
 #!/bin/bash
-tail -n 1 iacta >>
-echo "File 'iacta'
+tail -n 1 iacta >> iacta
